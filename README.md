@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amaanbca0120
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...C langua BCA First Year Studenn
+- 🌱 I’m currently learning ...C langua BCA First Year Student
 - 💞️ I’m looking to collaborate on ...C langauge
 - 📫 How to reach me ... GitHub Account
 
